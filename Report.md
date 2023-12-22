@@ -126,7 +126,7 @@ $$\mathrm{E}[y] = \dfrac{\mathrm{E}[x]}{1-5\mathrm{P}[\mathrm{S}_{3}]-10\mathrm{
 $$\begin{align*}
 \mathrm{P}[\mathrm{S}_{3}] &= \dfrac{225271}{6242400} = 0.0360872420\dots \\[2ex]
 \mathrm{P}[\mathrm{S}_{4}] &= \dfrac{28211}{6242400} = 0.0045192554\dots \\[2ex]
-\mathrm{P}[\mathrm{S}_{4}] &= \dfrac{1981}{6242400} = 0.0003173458\dots
+\mathrm{P}[\mathrm{S}_{5}] &= \dfrac{1981}{6242400} = 0.0003173458\dots
 \end{align*}$$
 
 Так мы получаем результат для первого момента:
